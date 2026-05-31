@@ -1,0 +1,2 @@
+Текст из ветки feature-conflict" 
+Изменение в feature-conflict
